@@ -5,7 +5,7 @@
 ```
 rvm 2.1@williamsl25_basic_rails --create
 ```
- cd out of the directory then back in again
+* cd out of the directory then back in again
 
 * Create the Rails project. First, install Rails gem
 ```
